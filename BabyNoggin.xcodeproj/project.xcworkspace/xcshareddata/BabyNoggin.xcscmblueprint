@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E3651B525647F8C5CE80B5177E39A09B5353A32F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E3651B525647F8C5CE80B5177E39A09B5353A32F" : 0,
+    "F9DB3BADFE9BD247613CC7EE478C16AAF09BA7DD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "984BAE2F-D1BD-43BD-B193-3AF3C526E72F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E3651B525647F8C5CE80B5177E39A09B5353A32F" : "assessmentTest\/",
+    "F9DB3BADFE9BD247613CC7EE478C16AAF09BA7DD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BabyNoggin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BabyNoggin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jprossall\/assessmentTest",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3651B525647F8C5CE80B5177E39A09B5353A32F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jprossall\/assessmentTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9DB3BADFE9BD247613CC7EE478C16AAF09BA7DD"
+    }
+  ]
+}
